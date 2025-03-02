@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\InfiniteCycle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7A59F4-8B62-B5D4-3FE5-FD98B6DE76BD}|Assembly-CSharp.csproj|D:\\InfiniteCycle\\assets\\script\\player\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7A59F4-8B62-B5D4-3FE5-FD98B6DE76BD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7A59F4-8B62-B5D4-3FE5-FD98B6DE76BD}|Assembly-CSharp.csproj|d:\\infinitecycle\\assets\\script\\player\\objectpooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7A59F4-8B62-B5D4-3FE5-FD98B6DE76BD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\objectpooler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7A59F4-8B62-B5D4-3FE5-FD98B6DE76BD}|Assembly-CSharp.csproj|D:\\InfiniteCycle\\assets\\script\\background\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7A59F4-8B62-B5D4-3FE5-FD98B6DE76BD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\background\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE7A59F4-8B62-B5D4-3FE5-FD98B6DE76BD}|Assembly-CSharp.csproj|d:\\infinitecycle\\assets\\script\\player\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE7A59F4-8B62-B5D4-3FE5-FD98B6DE76BD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\InfiniteCycle\\Assets\\Script\\Player\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\Bullet.cs",
+              "ToolTip": "D:\\InfiniteCycle\\Assets\\Script\\Player\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:28:48.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObjectPooler.cs",
+              "DocumentMoniker": "D:\\InfiniteCycle\\Assets\\Script\\Player\\ObjectPooler.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\ObjectPooler.cs",
+              "ToolTip": "D:\\InfiniteCycle\\Assets\\Script\\Player\\ObjectPooler.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\ObjectPooler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T14:49:18.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerManager.cs",
+              "DocumentMoniker": "D:\\InfiniteCycle\\Assets\\Script\\Player\\PlayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerManager.cs",
+              "ToolTip": "D:\\InfiniteCycle\\Assets\\Script\\Player\\PlayerManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\PlayerManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T08:47:07.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Background.cs",
+              "DocumentMoniker": "D:\\InfiniteCycle\\Assets\\Script\\Background\\Background.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Background\\Background.cs",
+              "ToolTip": "D:\\InfiniteCycle\\Assets\\Script\\Background\\Background.cs",
+              "RelativeToolTip": "Assets\\Script\\Background\\Background.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:27:48.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
